@@ -24,6 +24,10 @@
         {
             "name": "Krisan Alfa Timur",
             "email": "krisan47@gmail.com"
+        },
+        {
+            "name": "Tosin Bot",
+            "email": "bot.adetola@gmail.com"
         }
     ],
     "minimum-stability": "stable",
